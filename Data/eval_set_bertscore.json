@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is a stock?",
+    "reference": "Think of it like sharing slices of pizza. Each slice you own is like owning a part of a company—that’s what a stock is."
+  },
+  {
+    "prompt": "What is a bond?",
+    "reference": "It’s like when you lend your friend $10, and they promise to give you $12 later. That’s how bonds work."
+  },
+  {
+    "prompt": "What is revenue?",
+    "reference": "Revenue is the total money a lemonade stand makes before buying lemons and sugar."
+  },
+  {
+    "prompt": "Explain credit score simply.",
+    "reference": "A credit score is like a report card for your money habits. If you pay bills on time, you get a high score."
+  },
+  {
+    "prompt": "What is a ledger?",
+    "reference": "Think of a general ledger like a school notebook where every transaction is written down and totaled."
+  },
+  {
+    "prompt": "Explain mutual fund in simple terms.",
+    "reference": "A mutual fund is like a classroom jar where everyone puts in money and a teacher decides how to use it."
+  },
+  {
+    "prompt": "What does diversification mean in investing?",
+    "reference": "It’s like packing snacks, fruits, and sandwiches. If you don’t like one thing, you still have others—just like spreading investments."
+  },
+  {
+    "prompt": "Explain interest to a 10-year-old.",
+    "reference": "Interest is like borrowing a toy and giving it back with an extra candy to say thank you."
+  },
+  {
+    "prompt": "What is a contract?",
+    "reference": "A contract is like promising to swap your lunch with a friend and both of you writing it down."
+  },
+  {
+    "prompt": "Explain hierarchy in a company.",
+    "reference": "Corporate hierarchy is like a school where the principal is at the top, then teachers, then students. Everyone has a role."
+  }
+]

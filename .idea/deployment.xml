@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@54.237.244.170:22 key (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ubuntu@174.129.53.89:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@3.89.182.118:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@3.92.128.134:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@34.229.61.47:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@34.230.28.10:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@52.90.117.180:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@54.198.201.137:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@54.237.244.170:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@54.237.244.170:22 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@54.81.108.162:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/finbuddy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

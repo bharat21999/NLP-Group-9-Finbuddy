@@ -1,4 +1,4 @@
-# 📊 FinBuddy: Your Personal Finance Teacher
+# 📊 FinBuddy: Your Personal Finance Teacher and Stock Analyzer
 
 This repository contains the full pipeline for **FinBuddy**, an NLP-powered finance education chatbot. It can explain financial terms with relatable analogies and provide real-time stock summaries using Retrieval-Augmented Generation (RAG).
 
